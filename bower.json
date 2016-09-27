@@ -2,7 +2,7 @@
     "name": "videojs-contrib-media-source-dist",
     "version": "3.2.3",
     "description": "A Media Source Extensions plugin for video.js",
-    "main": "dist/videojs-contrib-media-source.min.js",
+    "main": "dist/videojs-contrib-media-sources.min.js",
     "keywords": [
         "videojs-contrib-media-source",
         "MEDIA SOURCE",
