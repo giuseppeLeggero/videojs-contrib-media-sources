@@ -1,0 +1,30 @@
+{
+    "name": "videojs-contrib-media-source-dist",
+    "version": "3.2.1",
+    "description": "A Media Source Extensions plugin for video.js",
+    "main": "dist/videojs-contrib-media-source.min.js",
+    "keywords": [
+        "videojs-contrib-media-source",
+        "MEDIA SOURCE",
+        "videojs plugin"
+    ],
+    "ignore": [
+        "dist-test",
+        "es5",
+        "node_modules",
+        "tmp",
+        "src",
+        "test",
+        ".gitignore",
+        ".jshintrc",
+        ".npmignore",
+        ".travis.yml",
+        "Gruntfile.js",
+        "CHANGELOG.md",
+        "index.html",
+        "package.json"
+    ],
+    "dependencies": {
+       "video.js": "~5.11.2"
+    }
+}
